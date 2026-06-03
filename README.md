@@ -4,9 +4,13 @@
 
 `Frontend` · `Backend` · `UX/UI` · `DevOps`
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://tiagoduartedf.github.io/portfolio/)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://tiagoduartedf.github.io/portfolio/blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoduartedf/)
+
 Posso colaborar em qualquer etapa: design das telas, frontend, API, banco, deploy e monitoramento em escala pra milhares de usuários. Acima de tudo, me considero resolvedor de problemas, com mentalidade de dono e foco em entregar valor pro cliente final.
 
-🇧🇷 *Read this in [English](https://tiagoduartedf.github.io/portfolio/): meu CV interativo tem versão em inglês.*
+🇺🇸 *Read this in [English](https://tiagoduartedf.github.io/portfolio/): meu CV interativo tem versão em inglês.*
 
 ---
 
