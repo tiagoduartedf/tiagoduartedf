@@ -6,7 +6,7 @@
 
 Posso colaborar em qualquer etapa: design das telas, frontend, API, banco, deploy e monitoramento em escala pra milhares de usuários. Acima de tudo, me considero resolvedor de problemas, com mentalidade de dono e foco em entregar valor pro cliente final.
 
-🇧🇷 *Read this in [English](https://tiagoduartedf.github.io/portfolio/) — meu CV interativo tem versão em inglês.*
+🇧🇷 *Read this in [English](https://tiagoduartedf.github.io/portfolio/): meu CV interativo tem versão em inglês.*
 
 ---
 
@@ -16,7 +16,7 @@ Hoje sou responsável pela plataforma do **DLOA AI**, uma solução B2B de comun
 
 Atuo de ponta a ponta (design, front, API, banco, deploy e observabilidade) numa plataforma que processa **dezenas de milhões de execuções de fluxo por mês**, modelada como máquina de estados sobre uma fila de mensageria que absorve campanhas com milhões de envios de uma vez.
 
-Antes disso passei pela **Globo**, na biblioteca de micro-frontends que atendia ge, gshow e globo.com, e reescrevi o servidor multiplayer de um jogo que estourou no YouTube pra rodar em paralelo em vários servidores.
+Antes disso passei pela **Globo**, na biblioteca de micro-frontends que atendia ge, gshow e globo.com, e escrevi do zero o servidor multiplayer de um jogo meu que estourou no YouTube, segurando centenas de jogadores simultâneos.
 
 ---
 
@@ -62,6 +62,5 @@ Antes disso passei pela **Globo**, na biblioteca de micro-frontends que atendia 
 ### 📫 Onde me encontrar
 
 - 📄 **CV interativo** (4 temas, PT/EN): [tiagoduartedf.github.io/portfolio](https://tiagoduartedf.github.io/portfolio/)
-- ✍️ **Blog** com 44 artigos, de fundamentos a DevOps: [tiagoduartedf.github.io/portfolio/blog](https://tiagoduartedf.github.io/portfolio/blog)
+- ✍️ **Blog** com 44 artigos, dos fundamentos ao avançado: [tiagoduartedf.github.io/portfolio/blog](https://tiagoduartedf.github.io/portfolio/blog)
 - 💼 **LinkedIn**: [in/tiagoduartedf](https://www.linkedin.com/in/tiagoduartedf/)
-- 📧 **Email**: tiagoduartedf@gmail.com
