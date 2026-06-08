@@ -6,11 +6,6 @@ Posso colaborar em qualquer etapa: design das telas, frontend, API, banco, deplo
 
 🇺🇸 *Read this in English on my portfolio: [https://tiagoduartedf.github.io/portfolio](https://tiagoduartedf.github.io/portfolio/).*
 
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](https://tiagoduartedf.github.io/portfolio/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://tiagoduartedf.github.io/portfolio/blog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoduartedf/)
-
 ---
 
 ## 🚀 No que estou trabalhando
@@ -79,7 +74,7 @@ Antes disso passei pela **Globo**, na biblioteca de micro-frontends que atendia 
 
 ## 📫 Onde me encontrar
 
-Pra falar comigo, o caminho mais direto é o **LinkedIn**. Pra conhecer meu trabalho a fundo, o **CV interativo** tem tudo — experiência, projetos e um blog com 44 artigos, dos fundamentos ao avançado.
+Pra falar comigo, o caminho mais direto é o **LinkedIn**. Pra conhecer meu trabalho a fundo, o **CV interativo** tem tudo: experiência, projetos e um blog com 44 artigos, dos fundamentos ao avançado.
 
-- CV interativo (4 temas, PT/EN) — [https://tiagoduartedf.github.io/portfolio](https://tiagoduartedf.github.io/portfolio/)
-- LinkedIn — [https://www.linkedin.com/in/tiagoduartedf](https://www.linkedin.com/in/tiagoduartedf/)
+- CV interativo (4 temas, PT/EN): [https://tiagoduartedf.github.io/portfolio](https://tiagoduartedf.github.io/portfolio/)
+- LinkedIn: [https://www.linkedin.com/in/tiagoduartedf](https://www.linkedin.com/in/tiagoduartedf/)
