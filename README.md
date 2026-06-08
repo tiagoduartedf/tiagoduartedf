@@ -64,6 +64,7 @@ Antes disso passei pela **Globo**, na biblioteca de micro-frontends que atendia 
 
 ## 📫 Onde me encontrar
 
-- 📄 **CV interativo** (4 temas, PT/EN): [tiagoduartedf.github.io/portfolio](https://tiagoduartedf.github.io/portfolio/)
-- ✍️ **Blog** com 44 artigos, dos fundamentos ao avançado: [tiagoduartedf.github.io/portfolio/blog](https://tiagoduartedf.github.io/portfolio/blog)
-- 💼 **LinkedIn**: [in/tiagoduartedf](https://www.linkedin.com/in/tiagoduartedf/)
+Pra falar comigo, o caminho mais direto é o **LinkedIn**. Pra conhecer meu trabalho a fundo, o **CV interativo** tem tudo — experiência, projetos e um blog com 44 artigos, dos fundamentos ao avançado.
+
+- CV interativo (4 temas, PT/EN) — [https://tiagoduartedf.github.io/portfolio](https://tiagoduartedf.github.io/portfolio/)
+- LinkedIn — [https://www.linkedin.com/in/tiagoduartedf](https://www.linkedin.com/in/tiagoduartedf/)
