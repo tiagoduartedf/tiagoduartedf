@@ -1,6 +1,4 @@
-# Olá, eu sou o Tiago Duarte 👋
-
-### Engenheiro de Software Fullstack & Design Engineer
+# Engenheiro de Software Fullstack & Design Engineer
 
 `Frontend` · `Backend` · `UX/UI` · `DevOps`
 
@@ -15,7 +13,7 @@ Posso colaborar em qualquer etapa: design das telas, frontend, API, banco, deplo
 
 ---
 
-### 🚀 No que estou trabalhando
+## 🚀 No que estou trabalhando
 
 Hoje sou responsável pela plataforma do **DLOA AI**, uma solução B2B de comunicação omnichannel que atende as maiores indústrias farmacêuticas do Brasil. O sistema integra com quase todas as farmácias do país, além de call centers e sites: cada adesão ou compra de medicamento dispara a régua de comunicação certa pro paciente.
 
@@ -25,7 +23,7 @@ Antes disso passei pela **Globo**, na biblioteca de micro-frontends que atendia 
 
 ---
 
-### 🛠️ Stack
+## 🛠️ Stack
 
 **Frontend**
 
@@ -64,7 +62,7 @@ Antes disso passei pela **Globo**, na biblioteca de micro-frontends que atendia 
 
 ---
 
-### 📫 Onde me encontrar
+## 📫 Onde me encontrar
 
 - 📄 **CV interativo** (4 temas, PT/EN): [tiagoduartedf.github.io/portfolio](https://tiagoduartedf.github.io/portfolio/)
 - ✍️ **Blog** com 44 artigos, dos fundamentos ao avançado: [tiagoduartedf.github.io/portfolio/blog](https://tiagoduartedf.github.io/portfolio/blog)
